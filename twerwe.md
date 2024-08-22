@@ -6,9 +6,9 @@
 [![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
 
-A Machine Learning Tool for Early Intervention 🚑
+A Machine Learning Tool for Early Intervention 
 
-## `About`
+## `About` 🚑
 > Heart disease is a leading cause of death worldwide, and accurate prediction of heart disease remains a significant challenge.
 > > This project aims to develop a machine learning model capable of predicting heart disease using a comprehensive dataset of key indicators.
 
