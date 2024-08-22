@@ -7,16 +7,25 @@
 A Machine Learning Tool for Early Intervention 🚑
 
 ## `About`
-This project is all about using deep learning to classify images of butterflies into their respective species. The dataset is from Kaggle, which contains over 10,000 images of butterflies from 100 different species. 📸
-The images were collected from various sources, including field observations, museum collections, and online repositories.
+> Heart disease is a leading cause of death worldwide, and accurate prediction of heart disease remains a significant challenge.
+> > This project aims to develop a machine learning model capable of predicting heart disease using a comprehensive dataset of key indicators.
+
+
+## `What's in this project?` 🫶
+
+* A dataset of over 400,000 adult profiles, capturing the diverse health status of individuals across various demographics and risk factors
+* A range of machine learning models, including Decision Trees, Random Forests, Gradient Boosting, and more
+* Hyperparameter tuning using BayesSearchCV and RandomizedSearchCV
+* Model evaluation using classification reports and accuracy scores
+* Prediction on new, unseen patient data from a random sample from the test set
 
 
 ## `Dataset`
 
-* **Dataset URL:** https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
+* **Dataset URL:** https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 * **License:** CC0-1.0
-* **Number of images:** 12594
-* **Number of classes:** 100
+* **Number of samples:** 400,000
+* **Number of factors:** 40
 
 | Category | Number of Images |
 | --- | --- |
