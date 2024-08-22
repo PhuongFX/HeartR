@@ -47,7 +47,40 @@ A Machine Learning Tool for Early Intervention 🚑
 * Seaborn
 * Plotly
 
-  
+> ### Data Preprocessing 🔀
+
+* Data Scaling: Appling PCA to the training features, normalize categorical labels, and shuffle the dataset to increase randomness and reduce bias. 🔀
+
+> ### Model Architecture 📚
+
+The following models are implemented and compared:
+
+1. DecisionTreeClassifier
+2. RandomForestClassifier
+3. ExtraTreesClassifier
+4. GradientBoostingClassifier
+5. HistGradientBoostingClassifier
+6. XGBClassifier
+7. LGBMClassifier
+8. CatBoostClassifier
+9. SVC
+10. LogisticRegression
+11. MLPClassifier
+12. AdaBoostClassifier
+13. GaussianNB
+
+
+
+> ### Model Performance 📊
+
+The model achieves a test accuracy of 94.66% using the MLPClassifier model, which is a great result considering the complexity of the dataset! 🎉 
+I have also identified the best hyperparameters for the RandomForestClassifier and XGBClassifier models using BayesSearchCV and RandomizedSearchCV.
+
+* Training accuracy: 0.9996
+* Validation accuracy: 0.9420
+* Test accuracy: 0.9600
+
+
 ## `Acknowledgments` 🙏
 
 * Kaggle dataset: 💖 Indicators of Heart Disease (2022 UPDATE)
