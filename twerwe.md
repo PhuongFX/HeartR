@@ -2,7 +2,9 @@
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green.svg)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/tensorflow-2.4.1-orange.svg)](https://www.tensorflow.org/)
+[![Pandas](https://img.shields.io/badge/pandas-1.3.5-red.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
 
 A Machine Learning Tool for Early Intervention 🚑
 
