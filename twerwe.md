@@ -8,7 +8,7 @@
 
 A Machine Learning Tool for Early Intervention 
 
-## `About` 🚑
+## `About`
 > Heart disease is a leading cause of death worldwide, and accurate prediction of heart disease remains a significant challenge.
 > > This project aims to develop a machine learning model capable of predicting heart disease using a comprehensive dataset of key indicators.
 
