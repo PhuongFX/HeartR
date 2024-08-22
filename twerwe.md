@@ -20,7 +20,7 @@ A Machine Learning Tool for Early Intervention 🚑
 * Prediction on new, unseen patient data from a random sample from the test set
 
 
-## `Dataset`
+## `Dataset` 📊
 
 * **Dataset URL:** https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 * **License:** CC0-1.0
@@ -32,6 +32,18 @@ A Machine Learning Tool for Early Intervention 🚑
 | Training | 12594 |
 | Validation | 500 |
 | Testing | 500 |
+
+
+## `Acknowledgments` 🙏
+
+* Kaggle dataset: 💖 Indicators of Heart Disease (2022 UPDATE)
+* Scikit-learn and Keras libraries for deep learning
+* Matplotlib and Seaborn libraries for data visualization
+
+## `🙅‍♂️Disclaimer`
+
+> This project is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
+The pre-trained model and may not always produce accurate results.
 
 
 ## `Get Involved!` 😌
