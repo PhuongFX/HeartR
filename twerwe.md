@@ -51,7 +51,7 @@ A Machine Learning Tool for Early Intervention 🚑
 
 * Data Scaling: Appling PCA to the training features, normalize categorical labels, and shuffle the dataset to increase randomness and reduce bias. 🔀
 
-> ### Model Architecture 📚
+> ### Models 🤖
 
 The following models are implemented and compared:
 
@@ -79,6 +79,16 @@ I have also identified the best hyperparameters for the RandomForestClassifier a
 * Training accuracy: 0.9996
 * Validation accuracy: 0.9420
 * Test accuracy: 0.9600
+
+|  | Predicted Positive | Predicted Negative |
+| --- | --- | --- |
+| **Actual Positive** | 232 | 12 |
+| **Actual Negative** | 15 | 213 |
+
+> ### Hyperparameter Tuning 🔧
+
+* GridSearchCV 
+* RandomizedSearchCV 
 
 
 ## `Acknowledgments` 🙏
