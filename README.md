@@ -1,18 +1,3 @@
----
-title: HeartR
-emoji: 🏢
-colorFrom: yellow
-colorTo: gray
-sdk: streamlit
-sdk_version: 1.36.0
-app_file: app.py
-pinned: false
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-Here is a possible README file for your repository:
-
 # HeartDiseasePredictor
 
 A Machine Learning Tool for Early Intervention
@@ -188,6 +173,9 @@ Here's an updated version of the README with more badges and emojis:
 
 A Machine Learning Tool for Early Intervention 🚑
 ------------------------------------------------
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green.svg)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-2.4.1-orange.svg)](https://www.tensorflow.org/)
 
 **Welcome! 👋**
 
