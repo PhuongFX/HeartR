@@ -104,7 +104,7 @@ The pre-trained model and may not always produce accurate results.
 
 
 ## `Get Involved!` 😌
-This project demonstrates the potential of deep learning for butterfly species identification. 
+This project demonstrates the potential of machine learning for heart disease prediction. 
 The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
 
 I hope you found this project informative and engaging! 😊  
