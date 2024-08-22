@@ -12,15 +12,6 @@ If you have any suggestions or contributes to the project, please let me know! I
 
 To get started with this project, you'll need to:
 
-* 
-* 
-* scikit-learn
-* tensorflow
-* xgboost
-* lightgbm
-* catboost
-* scikit-optimize
-
 * Install the required libraries, including pandas, numpy, scikit-learn, xgboost, catboost, lightgbm `pip install pandas numpy scikit-learn tensorflow xgboost lightgbm catboost` 📦
 * Download the dataset from Kaggle 📈
 * Run the code to train and evaluate the model 🤖
