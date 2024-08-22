@@ -33,11 +33,25 @@ A Machine Learning Tool for Early Intervention 🚑
 | Validation | 500 |
 | Testing | 500 |
 
+## `Methodology` 🔍
 
+> ### Requirements
+
+* Python 3.x
+* Xgboost
+* Keras
+* Scikit-learn
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+
+  
 ## `Acknowledgments` 🙏
 
 * Kaggle dataset: 💖 Indicators of Heart Disease (2022 UPDATE)
-* Scikit-learn and Keras libraries for deep learning
+* Scikit-learn and Xgboost libraries for model training
 * Matplotlib and Seaborn libraries for data visualization
 
 ## `🙅‍♂️Disclaimer`
