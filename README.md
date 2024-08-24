@@ -109,8 +109,9 @@ The pre-trained model and may not always produce accurate results.
 This project demonstrates the potential of machine learning for heart disease prediction. 
 The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
 
+
 I hope you found this project informative and engaging! 😊  
-If you have any suggestions or contributes to the project, please let me know! I'd love to hear from you.
+If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
