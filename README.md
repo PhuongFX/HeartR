@@ -8,7 +8,7 @@ A Machine Learning Tool for Early Intervention
 [![Pandas](https://img.shields.io/badge/pandas-1.3.5-red.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
-[![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-0.11.2-pink.svg)](https://seaborn.pydata.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
 
 
