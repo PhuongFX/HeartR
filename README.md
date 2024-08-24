@@ -28,7 +28,7 @@ A Machine Learning Tool for Early Intervention
 
 ## `Dataset` 📊
 
-* **Dataset URL:** https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+* **Dataset URL:** [💖 Indicators of Heart Disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 * **License:** CC0-1.0
 * **Number of samples:** 400,000
 * **Number of factors:** 40
