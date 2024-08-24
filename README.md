@@ -1,5 +1,7 @@
 # Heart Disease Predictor 💖
 
+A Machine Learning Tool for Early Intervention 
+
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green.svg)](https://scikit-learn.org/stable/)
@@ -8,7 +10,7 @@
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
 
-A Machine Learning Tool for Early Intervention 
+
 
 ## `About`
 > Heart disease is a leading cause of death worldwide, and accurate prediction of heart disease remains a significant challenge.
