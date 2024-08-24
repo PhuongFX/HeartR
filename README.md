@@ -7,6 +7,7 @@ A Machine Learning Tool for Early Intervention
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-green.svg)](https://scikit-learn.org/stable/)
 [![Pandas](https://img.shields.io/badge/pandas-1.3.5-red.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-3.5.1-pink.svg)](https://matplotlib.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
 
